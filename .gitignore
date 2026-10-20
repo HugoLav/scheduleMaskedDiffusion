@@ -1,0 +1,8 @@
+# Local Codex/research context (contains machine-specific paths)
+.codex/paper-context.md
+.project-context/
+
+# Python and Spyder local files
+__pycache__/
+*.py[cod]
+.spyproject/
